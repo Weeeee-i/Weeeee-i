@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi, I'm Weeeee-i
+
+- A student
+- Leearning Python
+- ArchLinux User
+- Neovim User
 
 <!--
 **Weeeee-i/Weeeee-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
